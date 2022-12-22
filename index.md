@@ -7,3 +7,7 @@ import random
 
 random.randint(0,5)
 ```
+
+- [x] ate breakfast
+- [x] learned markdown
+- [ ] submit pull request
